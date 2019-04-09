@@ -1,0 +1,8 @@
+#+TITLE: UPDATE TITLE 
+#+AUTHOR: UPDATE AUTHOR 
+#+OPTIONS toc:nil
+
+#+latex_header: \input{preamble}
+#+latex_header: \input{macro}
+
+
